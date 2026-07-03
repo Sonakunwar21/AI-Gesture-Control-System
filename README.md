@@ -54,19 +54,19 @@ Built using MediaPipe Hand Landmarker and OpenCV, the project demonstrates pract
 
 ## 📂 Project Structure
 
-```
-AI_Gesture_Control_System/
+```text
+GestureControl/
 │
-├── hand_detect.py             # Main application
-├── volume_control.py          # Volume control module
-├── brightness_control.py      # Brightness control module
-├── requirements.txt           # Project dependencies
+├── .gitignore                 # Ignore unnecessary files
 ├── README.md                  # Project documentation
+├── requirements.txt           # Required Python packages
+│
+├── hand_detect.py             # Main application for gesture detection
+├── volume_control.py          # Controls Windows system volume
+├── brightness_control.py      # Controls screen brightness
 │
 └── models/
-    └── hand_landmarker.task   # MediaPipe hand detection model
-```
-
+    └── hand_landmarker.task   # MediaPipe Hand Landmarker model
 ---
 
 ## 🚀 Future Improvements
