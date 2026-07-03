@@ -74,7 +74,6 @@ AI_Gesture_Control_System/
 - 🎨 Air Canvas for gesture-based drawing
 - 🖱️ Virtual Mouse Control
 - 📸 Screenshot Capture using gestures
-- 🎵 Media Play/Pause Control
 - ✋ Gesture-based mode switching
 - 🌐 Interactive desktop GUI
 - ⚡ Performance optimization for smoother tracking
